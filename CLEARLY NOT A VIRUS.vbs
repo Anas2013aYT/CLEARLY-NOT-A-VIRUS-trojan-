@@ -1,6 +1,6 @@
 set x=wscript.createobject ("wscript.shell")
 do
-wscript.slepp 50
+wscript.slepp 100
 x.sendkeys "{CAPSLOCK}"
 x.sendkeys "{NUMLOCK}"
 x.sendkeys "clearly not a virus(: "
